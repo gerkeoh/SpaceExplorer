@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "space_explorer.h": "c",
+        "stdio.h": "c"
+    }
+}
